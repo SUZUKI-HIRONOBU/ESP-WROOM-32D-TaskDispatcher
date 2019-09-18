@@ -1,7 +1,7 @@
 
 // Task Dispatcher
 // This code was tested under ESP-WROOM-32D.
-const char ProgramName[] = "Task Dispatcher Exsample 20190916a";
+const char ProgramName[] = "Task Dispatcher Example 20190916a";
 const char Author[] = "Hironobu SUZUKI";
 const char AuthorContact[] = "<suzuki.hironobu@gmail.com>";
 
